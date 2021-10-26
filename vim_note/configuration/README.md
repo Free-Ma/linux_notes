@@ -7,3 +7,4 @@
 ### neovim
 
 新建文件 `~/.config/nvim/init.vim`
+

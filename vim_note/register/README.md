@@ -1,10 +1,10 @@
-#### Insert模式下的复制粘贴
+### Insert模式下的复制粘贴
 
 粘贴代码可能导致缩进混乱
 
 需要使用`:set paste` 和 `:set nopaste`
 
-#### vim 寄存器
+## vim 寄存器
 
 vim在normal模式下复制/剪贴的内容都在vim寄存器里
 
